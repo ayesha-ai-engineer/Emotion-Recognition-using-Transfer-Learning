@@ -55,10 +55,9 @@ The real-time application loads the trained model and performs:
 
 ### **Clone the Repository**
 
-```bash
 git clone https://github.com/USERNAME/emotion-recognition
 cd emotion-recognition
-```
+
 
 ---
 
