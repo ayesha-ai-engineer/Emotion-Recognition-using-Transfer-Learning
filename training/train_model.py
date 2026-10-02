@@ -12,6 +12,8 @@ import cv2
 IMG_SIZE = 48
 BATCH = 64
 EPOCHS = 55
+# Qodo SQA review test
+
 
 # Qodo SQA review test
 
